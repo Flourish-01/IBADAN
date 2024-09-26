@@ -163,6 +163,9 @@ body{
    .mediaPartnerSection,.communityPartnerSection {
         margin-top: 20px;
     }
+    .footerNav{
+      padding-top: 19px !important;
+    }
 }
 
 
